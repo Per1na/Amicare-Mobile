@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425783218573",
+    "project_id": "amicare-final",
+    "storage_bucket": "amicare-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425783218573:android:047a07a3787934a8c2edc4",
+        "android_client_info": {
+          "package_name": "com.example.amicare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ah3_eZKUsbyDY7U0zPI0W1tSVcN_a_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
